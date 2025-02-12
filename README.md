@@ -1,2 +1,2 @@
 # Restaurant
-Restaurant website using laravel
+Restaurant website using PHP, HTML, CSS, JS
